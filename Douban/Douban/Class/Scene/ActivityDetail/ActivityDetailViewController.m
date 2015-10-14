@@ -19,7 +19,7 @@
 @property (nonatomic,retain) ActivityDetailView * detailView;
 @property (nonatomic,retain) MBProgressHUD * hud;
 
-//设置数据
+//设置数据xxxxxxxxxxxxxx
 - (void)p_setupData;
 //设置收藏按钮
 - (void)p_setupFavoriteButtonItem;
